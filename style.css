@@ -1,3 +1,38 @@
-body {
+h2 { 
+  color: darkblue;
+    font-size:150%;
+}
+h2{
+  border-style:dotted;
+  border-color:#4C4C9D;
+}
+body {background-color:#BAABBD}
 
+img:hover{
+  width: 40%
+}
+img{
+  width:19%
+}
+
+li{
+  color: dark blue;
+  font-size: 40px;
+}
+ul {
+  list-style: inside;
+  text-align: center;
+  list-style-type: circle
+}
+p{
+  font-size: 40px
+}
+table,tr,td {
+  border: 1px solid darkblue;
+}
+table{
+  width: 50%
+}
+tr:hover{
+  background-color: purple;
 }
