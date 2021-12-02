@@ -1,0 +1,31 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+h1 {
+  text-align: center;
+  color: navy;
+}
+
+body {
+  background-color: CadetBlue;
+}
+img {
+  border: navy dashed 5px;
+}
+
+ul {
+    list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  background-color: DarkSlateGray
+}
+
+li a {
+  display: block;
+  float: left;
+  padding: 15px;
+  color: LightSteelBlue
+  
+}
+li
