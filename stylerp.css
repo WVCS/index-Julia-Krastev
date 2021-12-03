@@ -25,7 +25,8 @@ li a {
   display: block;
   float: left;
   padding: 15px;
-  color: LightSteelBlue
+  color: LightSteelBlue;
+  font-size: 22px
   
 }
 li
