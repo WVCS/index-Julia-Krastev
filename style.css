@@ -36,5 +36,19 @@ table{
 tr:hover{
   background-color: purple;
 }
+ul {
+    list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  background-color: DarkSlateGray
+}
 
-
+li a {
+  display: block;
+  float: left;
+  padding: 15px;
+  color: LightSteelBlue;
+  font-size: 22px
+  
+}
